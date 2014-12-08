@@ -4,6 +4,9 @@ $location example in AngularJS.
 
 Demonstrate how to read and write custom locations using the url hash.
 
+## Demo ##
+[Click here to see the demo.](http://26medias.github.io/angular-location/ "Demo")
+
 # License: MIT #
 Copyright (c) 2014 Julien Loutre, Twenty-Six Medias, Inc
 
